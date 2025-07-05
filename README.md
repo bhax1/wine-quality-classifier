@@ -13,7 +13,7 @@ A simple web app that predicts whether a wine sample is **Good** or **Not Good**
 
 ## ➡️ Try it Out!
 
-https://your-username-wine-quality-predictor.streamlit.app/
+https://bhax1-wine-quality-classifier-app-7cfzoa.streamlit.app/
 
 ## 🚀 How to Run Locally
 
