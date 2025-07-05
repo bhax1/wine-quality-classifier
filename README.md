@@ -18,8 +18,8 @@ https://bhax1-wine-quality-classifier-app-7cfzoa.streamlit.app/
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/wine-quality-predictor.git
-cd wine-quality-predictor
+git clone https://github.com/bhax1/wine-quality-classifier.git
+cd wine-quality-classifier
 pip install -r requirements.txt
 streamlit run app.py
 # If that doesn't work, try:
