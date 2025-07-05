@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import joblib
-from streamlit_extras.colored_header import colored_header
 import pandas as pd
 import altair as alt
 
@@ -109,13 +108,6 @@ st.markdown("""
     }
     </style>
     """, unsafe_allow_html=True)
-
-# Header Section
-colored_header(
-    label="",
-    description="",
-    color_name="violet-70",
-)
 
 col1, col2 = st.columns([1, 3])
 with col1:
